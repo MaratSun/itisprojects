@@ -3,3 +3,7 @@
 *.iml
 out
 .idea
+build
+nbproject
+build.xml
+manifest.mf
