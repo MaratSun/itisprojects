@@ -37,7 +37,7 @@ public class JavaApplication4 {
            return;
         }
     }
-    System.out.println ("No");
+    System.out.println ("Noo");
     } 
 }
     
